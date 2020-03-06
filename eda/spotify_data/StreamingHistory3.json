@@ -1,0 +1,998 @@
+[
+  {
+    "endTime" : "2019-12-24 11:23",
+    "artistName" : "Daft Punk",
+    "trackName" : "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
+    "msPlayed" : 7451
+  },
+  {
+    "endTime" : "2019-12-24 11:23",
+    "artistName" : "Nick Drake",
+    "trackName" : "Black Eyed Dog",
+    "msPlayed" : 61151
+  },
+  {
+    "endTime" : "2019-12-24 11:23",
+    "artistName" : "Daft Punk",
+    "trackName" : "Instant Crush",
+    "msPlayed" : 4384
+  },
+  {
+    "endTime" : "2019-12-24 11:23",
+    "artistName" : "Nick Drake",
+    "trackName" : "Free Ride",
+    "msPlayed" : 6103
+  },
+  {
+    "endTime" : "2019-12-24 11:27",
+    "artistName" : "Daft Punk",
+    "trackName" : "Get Lucky",
+    "msPlayed" : 12297
+  },
+  {
+    "endTime" : "2019-12-24 11:27",
+    "artistName" : "Daft Punk",
+    "trackName" : "One More Time",
+    "msPlayed" : 250883
+  },
+  {
+    "endTime" : "2019-12-24 11:35",
+    "artistName" : "Daft Punk",
+    "trackName" : "Digital Love",
+    "msPlayed" : 273027
+  },
+  {
+    "endTime" : "2019-12-24 11:36",
+    "artistName" : "Daft Punk",
+    "trackName" : "Digital Love",
+    "msPlayed" : 28346
+  },
+  {
+    "endTime" : "2019-12-24 19:24",
+    "artistName" : "Nick Drake",
+    "trackName" : "Pink Moon",
+    "msPlayed" : 123333
+  },
+  {
+    "endTime" : "2019-12-24 19:30",
+    "artistName" : "Nick Drake",
+    "trackName" : "Northern Sky",
+    "msPlayed" : 369577
+  },
+  {
+    "endTime" : "2019-12-24 19:34",
+    "artistName" : "Nick Drake",
+    "trackName" : "Saturday Sun",
+    "msPlayed" : 245013
+  },
+  {
+    "endTime" : "2019-12-24 19:37",
+    "artistName" : "Nick Drake",
+    "trackName" : "Rider On The Wheel",
+    "msPlayed" : 157813
+  },
+  {
+    "endTime" : "2019-12-24 19:40",
+    "artistName" : "Nick Drake",
+    "trackName" : "Place To Be",
+    "msPlayed" : 161293
+  },
+  {
+    "endTime" : "2019-12-24 19:45",
+    "artistName" : "Nick Drake",
+    "trackName" : "One Of These Things First",
+    "msPlayed" : 290733
+  },
+  {
+    "endTime" : "2019-12-24 19:49",
+    "artistName" : "Nick Drake",
+    "trackName" : "Black Eyed Dog",
+    "msPlayed" : 26038
+  },
+  {
+    "endTime" : "2019-12-24 19:49",
+    "artistName" : "Nick Drake",
+    "trackName" : "River Man",
+    "msPlayed" : 258680
+  },
+  {
+    "endTime" : "2019-12-24 23:29",
+    "artistName" : "John Grant",
+    "trackName" : "Gmf",
+    "msPlayed" : 368895
+  },
+  {
+    "endTime" : "2019-12-24 23:33",
+    "artistName" : "John Grant",
+    "trackName" : "Sigourney Weaver",
+    "msPlayed" : 232030
+  },
+  {
+    "endTime" : "2019-12-24 23:38",
+    "artistName" : "John Grant",
+    "trackName" : "It's Easier",
+    "msPlayed" : 284657
+  },
+  {
+    "endTime" : "2019-12-24 23:44",
+    "artistName" : "John Grant",
+    "trackName" : "Vietnam",
+    "msPlayed" : 380981
+  },
+  {
+    "endTime" : "2019-12-24 23:47",
+    "artistName" : "John Grant",
+    "trackName" : "Outer Space",
+    "msPlayed" : 192661
+  },
+  {
+    "endTime" : "2019-12-24 23:50",
+    "artistName" : "John Grant",
+    "trackName" : "Glacier",
+    "msPlayed" : 158887
+  },
+  {
+    "endTime" : "2019-12-25 13:56",
+    "artistName" : "Los Chikos del Maiz",
+    "trackName" : "Senderos de Gloria",
+    "msPlayed" : 167369
+  },
+  {
+    "endTime" : "2019-12-25 13:56",
+    "artistName" : "Bad Bunny",
+    "trackName" : "Si Estuviésemos Juntos",
+    "msPlayed" : 15603
+  },
+  {
+    "endTime" : "2019-12-25 13:58",
+    "artistName" : "Teuma Thug",
+    "trackName" : "Fuck Life",
+    "msPlayed" : 109017
+  },
+  {
+    "endTime" : "2019-12-25 13:58",
+    "artistName" : "Gata Cattana",
+    "trackName" : "Nada funcionando",
+    "msPlayed" : 18320
+  },
+  {
+    "endTime" : "2019-12-25 14:00",
+    "artistName" : "Manu Chao",
+    "trackName" : "Bongo Bong",
+    "msPlayed" : 109621
+  },
+  {
+    "endTime" : "2019-12-25 14:02",
+    "artistName" : "Alabama Shakes",
+    "trackName" : "Hang Loose",
+    "msPlayed" : 139993
+  },
+  {
+    "endTime" : "2019-12-25 14:09",
+    "artistName" : "The Beach Boys",
+    "trackName" : "Good Vibrations - Remastered",
+    "msPlayed" : 216340
+  },
+  {
+    "endTime" : "2019-12-25 14:12",
+    "artistName" : "The Killers",
+    "trackName" : "When You Were Young",
+    "msPlayed" : 204219
+  },
+  {
+    "endTime" : "2019-12-25 14:14",
+    "artistName" : "Smile",
+    "trackName" : "Do as I Want",
+    "msPlayed" : 143104
+  },
+  {
+    "endTime" : "2019-12-25 14:15",
+    "artistName" : "Rusos Blancos",
+    "trackName" : "Una Excusa Diferente",
+    "msPlayed" : 52686
+  },
+  {
+    "endTime" : "2019-12-25 14:18",
+    "artistName" : "The Wave Pictures",
+    "trackName" : "Stay Here & Take Care Of The Chickens",
+    "msPlayed" : 180210
+  },
+  {
+    "endTime" : "2019-12-25 14:33",
+    "artistName" : "The Human League",
+    "trackName" : "Don't You Want Me",
+    "msPlayed" : 118909
+  },
+  {
+    "endTime" : "2019-12-26 09:02",
+    "artistName" : "John Grant",
+    "trackName" : "T C & Honeybear",
+    "msPlayed" : 298
+  },
+  {
+    "endTime" : "2019-12-26 09:08",
+    "artistName" : "John Grant",
+    "trackName" : "T C & Honeybear",
+    "msPlayed" : 331046
+  },
+  {
+    "endTime" : "2019-12-26 09:12",
+    "artistName" : "John Grant",
+    "trackName" : "Caramel",
+    "msPlayed" : 240666
+  },
+  {
+    "endTime" : "2019-12-26 09:17",
+    "artistName" : "John Grant",
+    "trackName" : "Drug",
+    "msPlayed" : 217516
+  },
+  {
+    "endTime" : "2019-12-26 09:25",
+    "artistName" : "John Grant",
+    "trackName" : "Marz",
+    "msPlayed" : 231829
+  },
+  {
+    "endTime" : "2019-12-26 12:33",
+    "artistName" : "John Grant",
+    "trackName" : "Sigourney Weaver",
+    "msPlayed" : 19175
+  },
+  {
+    "endTime" : "2019-12-26 12:39",
+    "artistName" : "Hot 8 Brass Band",
+    "trackName" : "Sexual Healing",
+    "msPlayed" : 368639
+  },
+  {
+    "endTime" : "2019-12-26 12:42",
+    "artistName" : "Hot 8 Brass Band",
+    "trackName" : "Sexual Healing",
+    "msPlayed" : 164361
+  },
+  {
+    "endTime" : "2019-12-26 12:46",
+    "artistName" : "The Wave Pictures",
+    "trackName" : "Spaghetti",
+    "msPlayed" : 232211
+  },
+  {
+    "endTime" : "2019-12-27 08:45",
+    "artistName" : "Van Morrison",
+    "trackName" : "And It Stoned Me - 2013 Remaster",
+    "msPlayed" : 207374
+  },
+  {
+    "endTime" : "2019-12-27 08:50",
+    "artistName" : "Van Morrison",
+    "trackName" : "And It Stoned Me - 2013 Remaster",
+    "msPlayed" : 282568
+  },
+  {
+    "endTime" : "2019-12-27 08:53",
+    "artistName" : "Drugdealer",
+    "trackName" : "Easy to Forget",
+    "msPlayed" : 200480
+  },
+  {
+    "endTime" : "2019-12-27 08:57",
+    "artistName" : "Metronomy",
+    "trackName" : "Everything Goes My Way",
+    "msPlayed" : 210080
+  },
+  {
+    "endTime" : "2019-12-27 09:00",
+    "artistName" : "The Killers",
+    "trackName" : "Mr. Brightside",
+    "msPlayed" : 222200
+  },
+  {
+    "endTime" : "2019-12-27 09:04",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "White Winter Hymnal",
+    "msPlayed" : 122718
+  },
+  {
+    "endTime" : "2019-12-27 09:05",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "White Winter Hymnal",
+    "msPlayed" : 24309
+  },
+  {
+    "endTime" : "2019-12-27 09:36",
+    "artistName" : "The Killers",
+    "trackName" : "When You Were Young",
+    "msPlayed" : 905
+  },
+  {
+    "endTime" : "2019-12-27 09:36",
+    "artistName" : "The Killers",
+    "trackName" : "Mr. Brightside",
+    "msPlayed" : 650
+  },
+  {
+    "endTime" : "2019-12-27 09:36",
+    "artistName" : "The Wave Pictures",
+    "trackName" : "American Boom",
+    "msPlayed" : 975
+  },
+  {
+    "endTime" : "2019-12-27 09:36",
+    "artistName" : "The Wave Pictures",
+    "trackName" : "American Boom",
+    "msPlayed" : 223592
+  },
+  {
+    "endTime" : "2019-12-27 09:36",
+    "artistName" : "Metronomy",
+    "trackName" : "Everything Goes My Way",
+    "msPlayed" : 69
+  },
+  {
+    "endTime" : "2019-12-27 09:36",
+    "artistName" : "The Strokes",
+    "trackName" : "Is This It",
+    "msPlayed" : 1044
+  },
+  {
+    "endTime" : "2019-12-27 09:36",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "White Winter Hymnal",
+    "msPlayed" : 23
+  },
+  {
+    "endTime" : "2019-12-27 09:36",
+    "artistName" : "Drugdealer",
+    "trackName" : "Easy to Forget",
+    "msPlayed" : 1439
+  },
+  {
+    "endTime" : "2019-12-27 09:40",
+    "artistName" : "Pajaro Sunrise",
+    "trackName" : "Kinda Fantastic",
+    "msPlayed" : 220000
+  },
+  {
+    "endTime" : "2019-12-27 10:20",
+    "artistName" : "Josh Rouse",
+    "trackName" : "Quiet Town",
+    "msPlayed" : 151973
+  },
+  {
+    "endTime" : "2019-12-27 10:40",
+    "artistName" : "Rusos Blancos",
+    "trackName" : "Tus Padres, Tu Novio, Tu Y Yo",
+    "msPlayed" : 312140
+  },
+  {
+    "endTime" : "2019-12-27 10:42",
+    "artistName" : "Drugdealer",
+    "trackName" : "Far Rockaway Theme",
+    "msPlayed" : 87906
+  },
+  {
+    "endTime" : "2019-12-27 10:44",
+    "artistName" : "Barry Louis Polisar",
+    "trackName" : "All I Want Is You",
+    "msPlayed" : 157623
+  },
+  {
+    "endTime" : "2019-12-27 10:46",
+    "artistName" : "Vampire Weekend",
+    "trackName" : "Mansard Roof",
+    "msPlayed" : 127666
+  },
+  {
+    "endTime" : "2019-12-27 10:47",
+    "artistName" : "Yo La Tengo",
+    "trackName" : "If It’s True",
+    "msPlayed" : 51126
+  },
+  {
+    "endTime" : "2019-12-27 10:53",
+    "artistName" : "Yo La Tengo",
+    "trackName" : "If It’s True",
+    "msPlayed" : 111837
+  },
+  {
+    "endTime" : "2019-12-27 10:56",
+    "artistName" : "Belle & Sebastian",
+    "trackName" : "Judy and the Dream of Horses",
+    "msPlayed" : 221533
+  },
+  {
+    "endTime" : "2019-12-27 11:01",
+    "artistName" : "The Whitest Boy Alive",
+    "trackName" : "Courage",
+    "msPlayed" : 262613
+  },
+  {
+    "endTime" : "2019-12-27 11:02",
+    "artistName" : "The Beatles",
+    "trackName" : "I Want To Hold Your Hand",
+    "msPlayed" : 82397
+  },
+  {
+    "endTime" : "2019-12-27 11:06",
+    "artistName" : "The Wave Pictures",
+    "trackName" : "I Thought Of You Again",
+    "msPlayed" : 230653
+  },
+  {
+    "endTime" : "2019-12-27 11:10",
+    "artistName" : "The Avett Brothers",
+    "trackName" : "The Perfect Space",
+    "msPlayed" : 271080
+  },
+  {
+    "endTime" : "2019-12-27 11:13",
+    "artistName" : "The Divine Comedy",
+    "trackName" : "Tonight We Fly",
+    "msPlayed" : 177080
+  },
+  {
+    "endTime" : "2019-12-27 11:17",
+    "artistName" : "Yuck",
+    "trackName" : "Suicide Policeman",
+    "msPlayed" : 195373
+  },
+  {
+    "endTime" : "2019-12-27 11:20",
+    "artistName" : "Adriano Celentano",
+    "trackName" : "Azzurro - Remastered",
+    "msPlayed" : 222867
+  },
+  {
+    "endTime" : "2019-12-27 11:24",
+    "artistName" : "Van Morrison",
+    "trackName" : "Wild Night",
+    "msPlayed" : 213600
+  },
+  {
+    "endTime" : "2019-12-27 11:26",
+    "artistName" : "The Cure",
+    "trackName" : "Boys Don't Cry",
+    "msPlayed" : 155973
+  },
+  {
+    "endTime" : "2019-12-27 11:31",
+    "artistName" : "Eels",
+    "trackName" : "That Look You Give That Guy",
+    "msPlayed" : 255347
+  },
+  {
+    "endTime" : "2019-12-27 12:52",
+    "artistName" : "Yo La Tengo",
+    "trackName" : "If It’s True",
+    "msPlayed" : 3622
+  },
+  {
+    "endTime" : "2019-12-27 12:52",
+    "artistName" : "Fleet Foxes",
+    "trackName" : "He Doesn't Know Why",
+    "msPlayed" : 69677
+  },
+  {
+    "endTime" : "2019-12-27 12:57",
+    "artistName" : "The Avett Brothers",
+    "trackName" : "The Perfect Space",
+    "msPlayed" : 271080
+  },
+  {
+    "endTime" : "2019-12-27 13:00",
+    "artistName" : "The Divine Comedy",
+    "trackName" : "Tonight We Fly",
+    "msPlayed" : 177080
+  },
+  {
+    "endTime" : "2019-12-27 13:02",
+    "artistName" : "Yuck",
+    "trackName" : "Suicide Policeman",
+    "msPlayed" : 165145
+  },
+  {
+    "endTime" : "2019-12-27 14:47",
+    "artistName" : "John Grant",
+    "trackName" : "Gmf",
+    "msPlayed" : 368895
+  },
+  {
+    "endTime" : "2019-12-27 14:52",
+    "artistName" : "John Grant",
+    "trackName" : "Pale Green Ghosts",
+    "msPlayed" : 312633
+  },
+  {
+    "endTime" : "2019-12-27 14:54",
+    "artistName" : "John Grant",
+    "trackName" : "You Don't Have To",
+    "msPlayed" : 123042
+  },
+  {
+    "endTime" : "2019-12-27 14:56",
+    "artistName" : "John Grant",
+    "trackName" : "Queen of Denmark",
+    "msPlayed" : 117353
+  },
+  {
+    "endTime" : "2019-12-27 15:53",
+    "artistName" : "John Grant",
+    "trackName" : "Queen of Denmark",
+    "msPlayed" : 270645
+  },
+  {
+    "endTime" : "2019-12-27 15:58",
+    "artistName" : "John Grant",
+    "trackName" : "It's Easier",
+    "msPlayed" : 284657
+  },
+  {
+    "endTime" : "2019-12-27 16:01",
+    "artistName" : "John Grant",
+    "trackName" : "Outer Space",
+    "msPlayed" : 192662
+  },
+  {
+    "endTime" : "2019-12-27 16:05",
+    "artistName" : "John Grant",
+    "trackName" : "Drug",
+    "msPlayed" : 235078
+  },
+  {
+    "endTime" : "2019-12-27 16:11",
+    "artistName" : "John Grant",
+    "trackName" : "Vietnam",
+    "msPlayed" : 380981
+  },
+  {
+    "endTime" : "2019-12-27 16:17",
+    "artistName" : "John Grant",
+    "trackName" : "T C & Honeybear",
+    "msPlayed" : 331047
+  },
+  {
+    "endTime" : "2019-12-27 17:24",
+    "artistName" : "John Grant",
+    "trackName" : "Fireflies",
+    "msPlayed" : 287076
+  },
+  {
+    "endTime" : "2019-12-28 08:53",
+    "artistName" : "John Grant",
+    "trackName" : "Glacier",
+    "msPlayed" : 297615
+  },
+  {
+    "endTime" : "2019-12-28 08:54",
+    "artistName" : "John Grant",
+    "trackName" : "Glacier",
+    "msPlayed" : 21561
+  },
+  {
+    "endTime" : "2019-12-28 08:57",
+    "artistName" : "The Velvet Underground",
+    "trackName" : "Sunday Morning",
+    "msPlayed" : 175893
+  },
+  {
+    "endTime" : "2019-12-28 09:00",
+    "artistName" : "The Velvet Underground",
+    "trackName" : "Pale Blue Eyes",
+    "msPlayed" : 191800
+  },
+  {
+    "endTime" : "2019-12-28 09:04",
+    "artistName" : "Lou Reed",
+    "trackName" : "Perfect Day",
+    "msPlayed" : 225000
+  },
+  {
+    "endTime" : "2019-12-28 09:12",
+    "artistName" : "Lou Reed",
+    "trackName" : "Perfect Day",
+    "msPlayed" : 225000
+  },
+  {
+    "endTime" : "2019-12-28 09:24",
+    "artistName" : "The Wave Pictures",
+    "trackName" : "I Love You Like A Madman",
+    "msPlayed" : 182560
+  },
+  {
+    "endTime" : "2019-12-28 09:26",
+    "artistName" : "The Wave Pictures",
+    "trackName" : "Spaghetti",
+    "msPlayed" : 54422
+  },
+  {
+    "endTime" : "2019-12-28 09:29",
+    "artistName" : "The Wave Pictures",
+    "trackName" : "Spaghetti",
+    "msPlayed" : 8837
+  },
+  {
+    "endTime" : "2019-12-28 09:33",
+    "artistName" : "The Wave Pictures",
+    "trackName" : "Just Like a Drummer",
+    "msPlayed" : 227000
+  },
+  {
+    "endTime" : "2019-12-28 10:57",
+    "artistName" : "The Wave Pictures",
+    "trackName" : "Long Black Cars",
+    "msPlayed" : 267014
+  },
+  {
+    "endTime" : "2019-12-28 10:57",
+    "artistName" : "The Wave Pictures",
+    "trackName" : "Little Surprise",
+    "msPlayed" : 4795
+  },
+  {
+    "endTime" : "2019-12-28 11:05",
+    "artistName" : "John Grant",
+    "trackName" : "It Doesn't Matter to Him",
+    "msPlayed" : 437975
+  },
+  {
+    "endTime" : "2019-12-28 11:08",
+    "artistName" : "John Grant",
+    "trackName" : "Sigourney Weaver",
+    "msPlayed" : 232031
+  },
+  {
+    "endTime" : "2019-12-28 11:15",
+    "artistName" : "John Grant",
+    "trackName" : "Vietnam",
+    "msPlayed" : 380981
+  },
+  {
+    "endTime" : "2019-12-28 11:20",
+    "artistName" : "John Grant",
+    "trackName" : "Marz",
+    "msPlayed" : 294253
+  },
+  {
+    "endTime" : "2019-12-28 11:24",
+    "artistName" : "John Grant",
+    "trackName" : "Fireflies",
+    "msPlayed" : 287076
+  },
+  {
+    "endTime" : "2019-12-28 11:31",
+    "artistName" : "John Grant",
+    "trackName" : "Where Dreams Go to Die",
+    "msPlayed" : 366443
+  },
+  {
+    "endTime" : "2019-12-28 11:35",
+    "artistName" : "John Grant",
+    "trackName" : "Caramel",
+    "msPlayed" : 240666
+  },
+  {
+    "endTime" : "2019-12-28 11:43",
+    "artistName" : "John Grant",
+    "trackName" : "Glacier",
+    "msPlayed" : 524593
+  },
+  {
+    "endTime" : "2019-12-28 11:49",
+    "artistName" : "John Grant",
+    "trackName" : "T C & Honeybear",
+    "msPlayed" : 331047
+  },
+  {
+    "endTime" : "2019-12-28 11:54",
+    "artistName" : "John Grant",
+    "trackName" : "It's Easier",
+    "msPlayed" : 284657
+  },
+  {
+    "endTime" : "2019-12-28 12:00",
+    "artistName" : "John Grant",
+    "trackName" : "Gmf",
+    "msPlayed" : 368895
+  },
+  {
+    "endTime" : "2019-12-28 12:08",
+    "artistName" : "John Grant",
+    "trackName" : "Pale Green Ghosts",
+    "msPlayed" : 481501
+  },
+  {
+    "endTime" : "2019-12-28 12:11",
+    "artistName" : "John Grant",
+    "trackName" : "Outer Space",
+    "msPlayed" : 192662
+  },
+  {
+    "endTime" : "2019-12-28 12:15",
+    "artistName" : "John Grant",
+    "trackName" : "You Don't Have To",
+    "msPlayed" : 256940
+  },
+  {
+    "endTime" : "2019-12-28 12:18",
+    "artistName" : "Manu Chao",
+    "trackName" : "Bongo Bong",
+    "msPlayed" : 158427
+  },
+  {
+    "endTime" : "2019-12-28 12:21",
+    "artistName" : "Jens Lekman",
+    "trackName" : "Wedding in Finistère",
+    "msPlayed" : 204680
+  },
+  {
+    "endTime" : "2019-12-28 12:25",
+    "artistName" : "Tachenko",
+    "trackName" : "Pulseras - Versión Dúo",
+    "msPlayed" : 203995
+  },
+  {
+    "endTime" : "2019-12-28 12:28",
+    "artistName" : "Rusos Blancos",
+    "trackName" : "Lo Noto",
+    "msPlayed" : 183840
+  },
+  {
+    "endTime" : "2019-12-28 12:31",
+    "artistName" : "Drugdealer",
+    "trackName" : "The Real World",
+    "msPlayed" : 187600
+  },
+  {
+    "endTime" : "2019-12-28 12:34",
+    "artistName" : "Jens Lekman",
+    "trackName" : "What's That Perfume That You Wear?",
+    "msPlayed" : 210920
+  },
+  {
+    "endTime" : "2019-12-28 12:38",
+    "artistName" : "Sufjan Stevens",
+    "trackName" : "Death with Dignity",
+    "msPlayed" : 239508
+  },
+  {
+    "endTime" : "2019-12-28 13:19",
+    "artistName" : "Rusos Blancos",
+    "trackName" : "Insuficiente",
+    "msPlayed" : 97926
+  },
+  {
+    "endTime" : "2019-12-28 13:24",
+    "artistName" : "Jens Lekman",
+    "trackName" : "To Know Your Mission",
+    "msPlayed" : 296920
+  },
+  {
+    "endTime" : "2019-12-28 13:27",
+    "artistName" : "Manu Chao",
+    "trackName" : "Bongo Bong",
+    "msPlayed" : 158426
+  },
+  {
+    "endTime" : "2019-12-28 13:30",
+    "artistName" : "Jens Lekman",
+    "trackName" : "Wedding in Finistère",
+    "msPlayed" : 204680
+  },
+  {
+    "endTime" : "2019-12-28 13:30",
+    "artistName" : "Tachenko",
+    "trackName" : "Pulseras - Versión Dúo",
+    "msPlayed" : 8624
+  },
+  {
+    "endTime" : "2019-12-28 13:32",
+    "artistName" : "Rusos Blancos",
+    "trackName" : "Lo Noto",
+    "msPlayed" : 91927
+  },
+  {
+    "endTime" : "2019-12-28 13:32",
+    "artistName" : "Drugdealer",
+    "trackName" : "The Real World",
+    "msPlayed" : 3575
+  },
+  {
+    "endTime" : "2019-12-28 13:35",
+    "artistName" : "Jens Lekman",
+    "trackName" : "What's That Perfume That You Wear?",
+    "msPlayed" : 210920
+  },
+  {
+    "endTime" : "2019-12-28 13:37",
+    "artistName" : "Sufjan Stevens",
+    "trackName" : "Death with Dignity",
+    "msPlayed" : 110710
+  },
+  {
+    "endTime" : "2019-12-28 13:37",
+    "artistName" : "Rusos Blancos",
+    "trackName" : "Insuficiente",
+    "msPlayed" : 11563
+  },
+  {
+    "endTime" : "2019-12-28 13:38",
+    "artistName" : "The Divine Comedy",
+    "trackName" : "I Like",
+    "msPlayed" : 31648
+  },
+  {
+    "endTime" : "2019-12-28 13:41",
+    "artistName" : "Tachenko",
+    "trackName" : "No Hay Nieve en Saint Moritz - Versión Dúo",
+    "msPlayed" : 7546
+  },
+  {
+    "endTime" : "2019-12-28 13:41",
+    "artistName" : "Wild Honey",
+    "trackName" : "Keyboards Under a Microscope",
+    "msPlayed" : 153799
+  },
+  {
+    "endTime" : "2019-12-28 13:41",
+    "artistName" : "The Wave Pictures",
+    "trackName" : "If You Leave It Alone",
+    "msPlayed" : 12654
+  },
+  {
+    "endTime" : "2019-12-28 13:41",
+    "artistName" : "The Divine Comedy",
+    "trackName" : "To the Rescue",
+    "msPlayed" : 13162
+  },
+  {
+    "endTime" : "2019-12-28 13:45",
+    "artistName" : "The Divine Comedy",
+    "trackName" : "Everybody Knows (except you)",
+    "msPlayed" : 228480
+  },
+  {
+    "endTime" : "2019-12-28 13:46",
+    "artistName" : "The Wave Pictures",
+    "trackName" : "Just Like a Drummer",
+    "msPlayed" : 90805
+  },
+  {
+    "endTime" : "2019-12-29 02:16",
+    "artistName" : "The Wave Pictures",
+    "trackName" : "Just Like a Drummer",
+    "msPlayed" : 3065
+  },
+  {
+    "endTime" : "2019-12-29 02:18",
+    "artistName" : "Manu Chao",
+    "trackName" : "Bongo Bong",
+    "msPlayed" : 158426
+  },
+  {
+    "endTime" : "2019-12-29 02:19",
+    "artistName" : "El Guincho",
+    "trackName" : "Novias",
+    "msPlayed" : 56763
+  },
+  {
+    "endTime" : "2019-12-29 02:23",
+    "artistName" : "Tones and I",
+    "trackName" : "Dance Monkey",
+    "msPlayed" : 209438
+  },
+  {
+    "endTime" : "2019-12-29 02:25",
+    "artistName" : "Future Islands",
+    "trackName" : "Seasons (Waiting On You)",
+    "msPlayed" : 69072
+  },
+  {
+    "endTime" : "2019-12-29 02:28",
+    "artistName" : "Men At Work",
+    "trackName" : "Down Under",
+    "msPlayed" : 185527
+  },
+  {
+    "endTime" : "2019-12-29 02:33",
+    "artistName" : "TOTO",
+    "trackName" : "Africa",
+    "msPlayed" : 295893
+  },
+  {
+    "endTime" : "2019-12-29 02:37",
+    "artistName" : "Breakbot",
+    "trackName" : "Baby I'm Yours - feat. Irfane",
+    "msPlayed" : 215506
+  },
+  {
+    "endTime" : "2019-12-29 02:51",
+    "artistName" : "LCD Soundsystem",
+    "trackName" : "all my friends - live at madison square garden",
+    "msPlayed" : 440106
+  },
+  {
+    "endTime" : "2019-12-29 02:56",
+    "artistName" : "Jens Lekman",
+    "trackName" : "How We Met, the Long Version",
+    "msPlayed" : 256266
+  },
+  {
+    "endTime" : "2019-12-29 10:10",
+    "artistName" : "Los Chikos del Maiz",
+    "trackName" : "Libreros",
+    "msPlayed" : 478147
+  },
+  {
+    "endTime" : "2019-12-29 10:11",
+    "artistName" : "C. Tangana",
+    "trackName" : "Llorando en la Limo (feat. Alizzz)",
+    "msPlayed" : 26184
+  },
+  {
+    "endTime" : "2019-12-29 10:12",
+    "artistName" : "Carolina Durante",
+    "trackName" : "El Himno Títular",
+    "msPlayed" : 97216
+  },
+  {
+    "endTime" : "2019-12-29 10:16",
+    "artistName" : "Los Chikos del Maiz",
+    "trackName" : "Gente Con Clase",
+    "msPlayed" : 13094
+  },
+  {
+    "endTime" : "2019-12-29 10:16",
+    "artistName" : "Nathy Peluso",
+    "trackName" : "Alabame",
+    "msPlayed" : 192592
+  },
+  {
+    "endTime" : "2019-12-29 12:42",
+    "artistName" : "Los Chikos del Maiz",
+    "trackName" : "Gente Con Clase",
+    "msPlayed" : 279020
+  },
+  {
+    "endTime" : "2019-12-29 12:43",
+    "artistName" : "Cupido",
+    "trackName" : "No Sabes Mentir",
+    "msPlayed" : 11053
+  },
+  {
+    "endTime" : "2019-12-29 12:45",
+    "artistName" : "Cariño",
+    "trackName" : "Llorando En La Limo",
+    "msPlayed" : 137439
+  },
+  {
+    "endTime" : "2019-12-29 12:47",
+    "artistName" : "El Palacio de Linares",
+    "trackName" : "Ciervo y Erizo",
+    "msPlayed" : 149266
+  },
+  {
+    "endTime" : "2019-12-29 12:48",
+    "artistName" : "Los Chikos del Maiz",
+    "trackName" : "Grupo Salvaje",
+    "msPlayed" : 19772
+  },
+  {
+    "endTime" : "2019-12-29 13:00",
+    "artistName" : "Los Chikos del Maiz",
+    "trackName" : "Grupo Salvaje",
+    "msPlayed" : 169087
+  },
+  {
+    "endTime" : "2019-12-29 13:03",
+    "artistName" : "John Grant",
+    "trackName" : "GMF",
+    "msPlayed" : 181394
+  },
+  {
+    "endTime" : "2019-12-29 13:05",
+    "artistName" : "Cecilio G.",
+    "trackName" : "Million Dollar Baby",
+    "msPlayed" : 119048
+  }
+]
